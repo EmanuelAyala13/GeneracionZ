@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.690bdb71.css",
+    "main.js": "/static/js/main.d409066f.js",
+    "static/js/787.995ebcef.chunk.js": "/static/js/787.995ebcef.chunk.js",
+    "static/media/FondoPrincipal.png": "/static/media/FondoPrincipal.4f66b957f3cf048b4e31.png",
+    "static/media/Videl_Funko.png": "/static/media/Videl_Funko.e025788fd773cf019098.png",
+    "static/media/Piccolo_Funko.png": "/static/media/Piccolo_Funko.82a557d3366439ad35eb.png",
+    "static/media/FondoContacto.png": "/static/media/FondoContacto.c1e23d8828fe30b9487a.png",
+    "static/media/GokuSsjBlueFunkoPop.png": "/static/media/GokuSsjBlueFunkoPop.59d1ac45adbbaadd70a6.png",
+    "static/media/Perfect_Cell_Funko.png": "/static/media/Perfect_Cell_Funko.4266060e502092d20421.png",
+    "static/media/Dodoria_Funko.png": "/static/media/Dodoria_Funko.5eb15f25cc330ced3dc9.png",
+    "static/media/Failed_Fusions_Funko.png": "/static/media/Failed_Fusions_Funko.ea2b94c241080cc79d83.png",
+    "static/media/Zamasu_Funko.png": "/static/media/Zamasu_Funko.1de0c9e87b1f7b7c86bd.png",
+    "static/media/ShenlongFunkoPop.png": "/static/media/ShenlongFunkoPop.c6ed6230b2949583f4cc.png",
+    "static/media/VegetaRedFunkoPop.png": "/static/media/VegetaRedFunkoPop.aa7ed3c9824d5da77720.png",
+    "static/media/TrunksFunkoPop.png": "/static/media/TrunksFunkoPop.34809c63e45af9170ed4.png",
+    "static/media/Porunga_Funko.png": "/static/media/Porunga_Funko.30b1e8647a7943ab2b00.png",
+    "static/media/AboutUsFondo.png": "/static/media/AboutUsFondo.b04c08e779d00d190b74.png",
+    "index.html": "/index.html",
+    "main.690bdb71.css.map": "/static/css/main.690bdb71.css.map",
+    "main.d409066f.js.map": "/static/js/main.d409066f.js.map",
+    "787.995ebcef.chunk.js.map": "/static/js/787.995ebcef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690bdb71.css",
+    "static/js/main.d409066f.js"
+  ]
+}
